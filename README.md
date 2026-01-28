@@ -1,6 +1,6 @@
 # Hi, I'm Eldor Ergashev
 
-**AI/ML Engineer | LLM & NLP Specialist | Full-Stack Developer**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI%2FML+Engineer+%7C+LLM+%26+NLP+Specialist+%7C+Full-Stack+Developer)](https://git.io/typing-svg)
 
 Building intelligent applications with cutting-edge AI technologies. Passionate about LLMs, RAG systems, and creating production-ready AI solutions.
 
