@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Eldor%20Ergashov&reversal=false&textBg=false)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=B083F7&width=1000&lines=AI%2FML+Engineer+%7C+LLM+%26+NLP+Specialist+%7C+Full-Stack+Developer;Passionate+about+LLMs%2C+RAG+systems%2C+and+creating+AI+solutions.;Building+intelligent+applications+with+cutting-edge+AI+technologies.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=B083F7&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+%7C+LLM+%26+NLP+Specialist+%7C+Full-Stack+Developer;Passionate+about+LLMs%2C+RAG+systems%2C+and+creating+AI+solutions.;Building+intelligent+applications+with+cutting-edge+AI+technologies.)](https://git.io/typing-svg)
 
 ---
 
