@@ -38,7 +38,7 @@ Production-ready LLM applications with LangChain including RAG pipelines, multim
 
 ### [Meeting Copilot](https://github.com/enquiryman/meeting-copilot)
 AI-powered meeting transcription with speaker diarization using Whisper and Pyannote Audio.
-- Multi-language support (EN, UZ, RU, KO)
+- Multi-language support (KO, EN, RU, UZ)
 - Real-time speaker identification
 - Privacy-first local processing
 
